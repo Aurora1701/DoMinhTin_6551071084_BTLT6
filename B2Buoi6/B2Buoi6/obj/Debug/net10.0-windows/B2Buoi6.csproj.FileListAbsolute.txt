@@ -1,0 +1,17 @@
+C:\Users\Administrator\source\repos\B2Buoi6\B2Buoi6\bin\Debug\net10.0-windows\B2Buoi6.exe
+C:\Users\Administrator\source\repos\B2Buoi6\B2Buoi6\bin\Debug\net10.0-windows\B2Buoi6.deps.json
+C:\Users\Administrator\source\repos\B2Buoi6\B2Buoi6\bin\Debug\net10.0-windows\B2Buoi6.runtimeconfig.json
+C:\Users\Administrator\source\repos\B2Buoi6\B2Buoi6\bin\Debug\net10.0-windows\B2Buoi6.dll
+C:\Users\Administrator\source\repos\B2Buoi6\B2Buoi6\bin\Debug\net10.0-windows\B2Buoi6.pdb
+C:\Users\Administrator\source\repos\B2Buoi6\B2Buoi6\obj\Debug\net10.0-windows\B2Buoi6.FormDatPhong.resources
+C:\Users\Administrator\source\repos\B2Buoi6\B2Buoi6\obj\Debug\net10.0-windows\B2Buoi6.csproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\B2Buoi6\B2Buoi6\obj\Debug\net10.0-windows\B2Buoi6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\B2Buoi6\B2Buoi6\obj\Debug\net10.0-windows\B2Buoi6.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\B2Buoi6\B2Buoi6\obj\Debug\net10.0-windows\B2Buoi6.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\B2Buoi6\B2Buoi6\obj\Debug\net10.0-windows\B2Buoi6.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\B2Buoi6\B2Buoi6\obj\Debug\net10.0-windows\B2Buoi6.dll
+C:\Users\Administrator\source\repos\B2Buoi6\B2Buoi6\obj\Debug\net10.0-windows\refint\B2Buoi6.dll
+C:\Users\Administrator\source\repos\B2Buoi6\B2Buoi6\obj\Debug\net10.0-windows\B2Buoi6.pdb
+C:\Users\Administrator\source\repos\B2Buoi6\B2Buoi6\obj\Debug\net10.0-windows\B2Buoi6.genruntimeconfig.cache
+C:\Users\Administrator\source\repos\B2Buoi6\B2Buoi6\obj\Debug\net10.0-windows\ref\B2Buoi6.dll
+C:\Users\Administrator\source\repos\B2Buoi6\B2Buoi6\obj\Debug\net10.0-windows\B2Buoi6.csproj.Up2Date
